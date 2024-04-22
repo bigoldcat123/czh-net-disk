@@ -1,0 +1,7 @@
+.vscode
+.idea
+target/
+.DS_Store
+*.iml
+
+src/main/resources/application-prod.properties
